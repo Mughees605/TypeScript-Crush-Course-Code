@@ -1,0 +1,11 @@
+{
+  "name": "strong-typing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strong_typing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
