@@ -13,3 +13,5 @@ function (firstName: string, ...restOfName: string[]) {
 }
 
 var employeeName = buildNameFun("Noman", "Tahir", "Kashaf", "Rehman");
+
+console.log(`Employee Names: ${employeeName}`)
